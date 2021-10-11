@@ -1,5 +1,5 @@
 {
-    "name": "reactcard26",
+    "name": "React-card",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -11,7 +11,7 @@
       "react-dom": "^17.0.2",
       "react-scripts": "4.0.3",
       "web-vitals": "^1.1.2",
-      "homepage" :"https://github.com/VenkateshGopa/reactcard26.git"
+      "homepage" :"https://github.com/ankesai8/React-card.git"
     },
     "scripts": {
       "predeploy": "npm run build",
